@@ -1,0 +1,46 @@
+{
+    "potentials": {
+        "1576533000164505327": {
+            "name": "Tawkify - team extension",
+            "accountLinkedIn": "http://www.linkedin.com/company/tawkify",
+            "jobs": [
+                {
+                    "jobTitle": "Senior Software Engineer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3551205475/?alternateChannel=search&refId=LPEESC2uLluJrxyKVHfm0Q%3D%3D&trackingId=Fo50lYKj38WyHGrbES7tFA%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "2 weeks ago ",
+                    "technologies": "React, JavaScript, TypeScript, Node, PHP, Python"
+                }
+            ]
+        },
+        "1576533000104222399": {
+            "name": "Three Ships - Wordpress development",
+            "accountLinkedIn": "http://www.linkedin.com/company/threeships",
+            "jobs": [
+                {
+                    "jobTitle": "Sales Development Representative",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3497732159/?alternateChannel=search&refId=VfbziECzlXbB3SdvdM%2Bbwg%3D%3D&trackingId=iZ4pW4vseLYMf0%2FodOvwkw%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 month ago ",
+                    "technologies": "SalesForce"
+                },
+                {
+                    "jobTitle": "Senior Front End Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3555471319/?alternateChannel=search&refId=VfbziECzlXbB3SdvdM%2Bbwg%3D%3D&trackingId=%2F6PQ%2Bev%2FUa0C5x7PR1%2BivQ%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 week ago ",
+                    "technologies": "PHP, JavaScript, WordPress, jQuery, AWS, React, Vue, Angular"
+                },
+                {
+                    "jobTitle": "Senior Frontend Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3574208923/?alternateChannel=search&refId=VfbziECzlXbB3SdvdM%2Bbwg%3D%3D&trackingId=XBzsf71RZpOSTmtPOFAA9w%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "1 day ago ",
+                    "technologies": "PHP, JavaScript, WordPress, jQuery, AWS, React, Vue, Angular"
+                },
+                {
+                    "jobTitle": "Senior WordPress Developer",
+                    "jobLink": "https://www.linkedin.com/jobs/view/3568669102/?alternateChannel=search&refId=VfbziECzlXbB3SdvdM%2Bbwg%3D%3D&trackingId=FES5w%2F%2B1JlYN4gZEV4LlKg%3D%3D&trk=d_flagship3_search_srp_jobs",
+                    "postedDate": "6 days ago ",
+                    "technologies": "WordPress, JavaScript, PHP, AWS"
+                }
+            ]
+        }
+    }
+}
